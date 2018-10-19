@@ -1,13 +1,11 @@
-# SistemaRSA
-A data analysis project for relationships in a classroom
-The folder contains all the tables of the sistema_rsa database. You should copy and paste the folder database in \usr\local\mysql\data in your system.
-Run the Py program and the mysql database should work.
+# Bus Simulation By Carlos Robles
+A little bus simulation done using pygame and simple routing algorithms.
 
 # ANALYZE 
-Using networkx package algorithms you can analyze the network of the classroom and use the data to improve the relationships in it.
+Analize the shortest path betwing routes.
 
-# DISCOVER
-Discover possible problems in your students, as bullyng, depression and possible dropouts.
+# Simulate
+Simulate real life bus routes.
 
-# GRAPH
-Graph the relationships of your classroom as a beautiful and simple graph.
+# Share
+Share in PDF statistics about the bus ride.
