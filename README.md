@@ -1,6 +1,8 @@
 # Bus Simulation By Carlos Robles
 A little bus simulation done using pygame and simple routing algorithms.
 
+![Bus Simulation](Simulacion.png "Bus Simulation")
+
 # ANALYZE 
 Analize the shortest path betwing routes.
 
