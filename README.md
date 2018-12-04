@@ -16,3 +16,5 @@ Simulate real life bus routes.
 Share in PDF statistics about the bus ride.
 
 ![Carlos](carlos_logo.png "By Carlos Robles")
+
+By Carlos Robles
